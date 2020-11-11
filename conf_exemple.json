@@ -1,0 +1,18 @@
+{
+    "solutions": [
+       {
+          "name": "exemple1",
+          "url": "https://bled.easiware.fr/8.2/exemple1",
+          "id": "username",
+          "mdp": "password",
+          "socle": "8.2"
+       },
+       {
+        "name": "exemple2",
+        "url": "https://bled.easiware.fr/8.10/exemple2",
+        "id": "username",
+        "mdp": "password",
+        "socle":"8.10"
+       }
+      ]
+  }
